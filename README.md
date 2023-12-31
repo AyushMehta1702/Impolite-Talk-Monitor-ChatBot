@@ -65,7 +65,7 @@ Welcome to the Impolite Talk Monitor Chatbot repository! This project features a
 - **Response Settings:** Adjust the `temperature` and `max_tokens` parameters in the `ChatCompletion.create` method to control the response generation.
 
 ## Tests and Results
-[Talk Results](test_and_resulting_talk.png)
+![Talk Results](test_and_resulting_talk.png)
 
 ## Contributing
 Feel free to contribute to the project by submitting issues or pull requests.
